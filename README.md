@@ -27,7 +27,9 @@ options:
 
 ## Dependencies
 minimap2
+
 python 2.7+
+
 samtools (not required if index of sequences, i.e., `.fai` file, exists)
 
 ## Output
