@@ -1,8 +1,9 @@
 #!/bin/bash
 
 ####################################
-# Script that ...
-#
+# Script that identifies the haplotype-specific duplications that caused by heterozygous variations.
+# Input your assembly (contigs or scaffolds), primary and alternate sequences will be seperated
+# from your assembly.
 ####################################
 
 # default sequence divergence
